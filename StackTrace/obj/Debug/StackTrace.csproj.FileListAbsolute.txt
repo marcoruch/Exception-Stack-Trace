@@ -1,0 +1,6 @@
+C:\Users\marco.ruch.COMITAS\source\testspace\Exam 70-483\StackTrace\StackTrace\bin\Debug\StackTrace.exe.config
+C:\Users\marco.ruch.COMITAS\source\testspace\Exam 70-483\StackTrace\StackTrace\bin\Debug\StackTrace.exe
+C:\Users\marco.ruch.COMITAS\source\testspace\Exam 70-483\StackTrace\StackTrace\bin\Debug\StackTrace.pdb
+C:\Users\marco.ruch.COMITAS\source\testspace\Exam 70-483\StackTrace\StackTrace\obj\Debug\StackTrace.csprojAssemblyReference.cache
+C:\Users\marco.ruch.COMITAS\source\testspace\Exam 70-483\StackTrace\StackTrace\obj\Debug\StackTrace.exe
+C:\Users\marco.ruch.COMITAS\source\testspace\Exam 70-483\StackTrace\StackTrace\obj\Debug\StackTrace.pdb
